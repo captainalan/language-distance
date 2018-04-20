@@ -1,0 +1,10 @@
+Name       Abbr  OV   Tonal  Typology Written  FSI Indo-European
+Chinese    cn    No   Yes    1        Yes      4   No
+English    en    No   No     2        Yes      0   Yes
+Esperanto  eo    No   No     3        Yes      1   Yes
+French     fr    No   No     2        Yes      1   Yes
+German     de    No   No     2        Yes      2   Yes
+Indonesian id    No   No     2        Yes      3   No
+Japanese   jp    Yes  Yes    3        Yes      4   No
+Korean     ko    Yes  No     3        Yes      4   No
+Spanish    es    No   No     2        Yes      1   Yes
